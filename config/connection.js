@@ -1,10 +1,10 @@
 const { Client } = require('pg');
 const connection = new Client({
     host: 'localhost',
-    port: 3001,
-    user: 'postgres',
-    password: '14010ds',
-    database: 'employee_tracker'
+    user: 'process.env.DB_USER',
+    password: 'process.env.DB_PASSWORD',
+    database: 'employee_tracker',
+    port: 3001
 });
 
 module.exports = connection;
