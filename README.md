@@ -2,6 +2,9 @@
 
 Challenge 10 - Daved Strzykalski
 
+<img width="959" alt="Challenge-10-Screenshot" src="https://github.com/user-attachments/assets/e1d6aaf6-9c4e-4374-8215-4141f09a5b29">
+
+
 ## Video Link
 
 Video Demo Link-<https://drive.google.com/file/d/1HxY3fBxiP0fxSZ4JfZyw3Q37jLnHu0XG/view>.
